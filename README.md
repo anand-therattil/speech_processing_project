@@ -1,2 +1,7 @@
-# speech_processing_project
-A simple Speech processing project consisting of ASR 
+# Audio & Text Processing 
+## Installation 
+`pip install -r requirements.txt` 
+
+To start the service run
+`streamlit run Main.py`
+
